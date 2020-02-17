@@ -1,4 +1,4 @@
-<h1 ><img src="https://github.com/GabrielPRDF/TCC_Interpretador/blob/master/Documentos/Icons/interpretador.png" height="50" width="50"> <b align="center">Calculadora BigInt</b></h1>
+<h1 ><img src="https://github.com/GabrielPRDF/TCC_Interpretador/blob/master/Documentos/Icons/interpretador.png" height="50" width="50"> <div align="center"><b>Calculadora BigInt</b></h1></div>
 
 **Universidade Tuiuti do Paraná - UTP**
 
